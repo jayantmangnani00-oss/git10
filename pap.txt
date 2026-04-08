@@ -1,0 +1,9 @@
+init
+add 
+branch 
+commit 
+date 
+push 
+pull 
+fork 
+
