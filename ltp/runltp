@@ -1,0 +1,11 @@
+#!/bin/sh
+# SPDX-License-Identifier: GPL-2.0-or-later
+# Copyright (c) Linux Test Project, 2026
+
+cat >&2 << EOF
+runltp was removed from LTP use kirk instead
+https://github.com/linux-test-project/kirk
+https://kirk.readthedocs.io/
+EOF
+
+exit 1
