@@ -1,0 +1,13 @@
+init
+add 
+branch 
+commit 
+date 
+push 
+pull 
+fork 
+asdfghjkl;
+asdfghjkl;
+asdertyu
+asdrtyui
+
