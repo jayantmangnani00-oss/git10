@@ -1,7 +1,0 @@
-hi everyone, my name is jayant managnani 
-I am learning devops from zeetron networks 
-and i learn git 
-
-Hello i make changes in this file, because I am learning the pull cmd in GIT 
-kyki kal se docker start ho raha hai i think  
-I have only 1 or 2 days more to learn Git 
