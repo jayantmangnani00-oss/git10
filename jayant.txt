@@ -1,2 +1,0 @@
-Hello last try for git pull 
-git pull is easy campare to git push 
