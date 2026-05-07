@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Simple Website</title>
+
+  <style>
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family:Arial, sans-serif;
+    }
+
+    body{
+      background:#f4f4f4;
+      color:#333;
+    }
+
+    header{
+      background:#111827;
+      color:white;
+      padding:20px;
+      text-align:center;
+    }
+
+    nav{
+      margin-top:10px;
+    }
+
+    nav a{
+      color:white;
+      text-decoration:none;
+      margin:0 15px;
+      font-size:18px;
+    }
+
+    .hero{
+      height:80vh;
+      display:flex;
+      flex-direction:column;
+      justify-content:center;
+      align-items:center;
+      text-align:center;
+      background:linear-gradient(to right, #2563eb, #7c3aed);
+      color:white;
+      padding:20px;
+    }
+
+    .hero h1{
+      font-size:50px;
+      margin-bottom:15px;
+    }
+
+    .hero p{
+      font-size:20px;
+      margin-bottom:20px;
+    }
+
+    .btn{
+      padding:12px 25px;
+      background:white;
+      color:#2563eb;
+      border:none;
+      border-radius:5px;
+      font-size:16px;
+      cursor:pointer;
+      transition:0.3s;
+    }
+
+    .btn:hover{
+      background:#e5e7eb;
+    }
+
+    .about{
+      padding:50px 20px;
+      text-align:center;
+    }
+
+    footer{
+      background:#111827;
+      color:white;
+      text-align:center;
+      padding:15px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h2>My Website</h2>
+
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple website made using HTML and CSS.</p>
+
+    <button class="btn">Get Started</button>
+  </section>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>
+      This is a beginner-friendly website template.
+      You can customize colors, text, and images easily.
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2026 My Website | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
